@@ -382,7 +382,7 @@
 
 .last {
     height: 80vh;
-    background-image: url(./assets/lastfooter.jpeg);
+    background-image: url(./lastfooter.jpeg);
     background-size: cover;
     background-position: 50% 70%;
     display: flex;
